@@ -1,3 +1,3 @@
-module github.com/theNewDynamic/hugo-module-tnd-media
+module github.com/kaseya-dm/hugo-module-tnd-media
 
 go 1.14

@@ -9,4 +9,4 @@ module:
   - source: console
     target: layouts/partials/tnd-media
   imports:
-  - path: github.com/theNewDynamic/hugo-module-tnd-imgix
+  - path: github.com/kaseya-dm/hugo-module-tnd-imgix
